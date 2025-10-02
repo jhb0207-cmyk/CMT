@@ -1,0 +1,35 @@
+[
+  {
+    "title": "서울 지하철 2호선 강남역 전력 설비 화재로 운행 지연",
+    "summary": "7월 2일 오전 8시 10분경 강남역 인근 변전소에서 전력 설비 화재가 발생해 2호선 열차가 양방향 20분 이상 지연됐다.",
+    "location": "서울 강남역, 대한민국",
+    "published_at": "2024-07-02T08:10:00+09:00",
+    "source": "연합뉴스",
+    "url": "https://example.com/seoul-metro-delay"
+  },
+  {
+    "title": "김포공항 폭우로 국내선 다수 지연",
+    "summary": "7월 2일 오전부터 이어진 집중호우로 김포공항 활주로 배수 작업이 진행되며 국내선 15편이 지연 출발했다.",
+    "location": "김포국제공항, 대한민국",
+    "published_at": "2024-07-02T09:35:00+09:00",
+    "source": "KBS",
+    "url": "https://example.com/gimpo-weather-delay"
+  },
+  {
+    "title": "파리 중심부 대규모 집회, 일부 구간 차량 통제",
+    "summary": "7월 1일 저녁 파리 9구 오페라 광장 일대에서 5천여 명 규모의 집회가 열려 주변 도로가 한시적으로 통제됐다.",
+    "location": "파리 9구, 프랑스",
+    "published_at": "2024-07-01T19:00:00+02:00",
+    "source": "AFP",
+    "url": "https://example.com/paris-demonstration"
+  },
+  {
+    "title": "도쿄 나리타공항 보안 점검 강화",
+    "summary": "일본 정부의 특별 경계령에 따라 7월 2일 0시부터 나리타공항 모든 출입구에서 보안 검색이 강화되며 이용객 대기 시간이 길어지고 있다.",
+    "location": "나리타국제공항, 일본",
+    "published_at": "2024-07-02T10:00:00+09:00",
+    "source": "NHK",
+    "url": "https://example.com/narita-security"
+  }
+]
+
